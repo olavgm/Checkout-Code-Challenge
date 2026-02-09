@@ -1,0 +1,108 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "3D Secure Verification" : {
+      "comment" : "Navigation title for 3DS web view"
+    },
+    "3DS redirect URL not found in response" : {
+      "comment" : "Error when 3DS redirect URL is missing from payment response"
+    },
+    "Cancel" : {
+      "comment" : "Cancel button for 3DS verification"
+    },
+    "Card has expired" : {
+      "comment" : "Validation error when the card expiry date is in the past"
+    },
+    "Card number" : {
+      "comment" : "Label for card number input field"
+    },
+    "Card number is required" : {
+      "comment" : "Validation error when card number is empty"
+    },
+    "Check your card details and try again." : {
+      "comment" : "Recovery suggestion for invalid card error"
+    },
+    "Complete all card details first" : {
+      "comment" : "Accessibility hint when pay button is disabled"
+    },
+    "CVV" : {
+      "comment" : "Label for CVV input field"
+    },
+    "CVV is required" : {
+      "comment" : "Validation error when CVV is empty"
+    },
+    "CVV security code" : {
+      "comment" : "Accessibility label for CVV input field"
+    },
+    "Double tap to process payment" : {
+      "comment" : "Accessibility hint when pay button is enabled"
+    },
+    "Enter month and year, for example 06 30" : {
+      "comment" : "Accessibility hint for expiry date field"
+    },
+    "Enter your 15 or 16 digit card number" : {
+      "comment" : "Accessibility hint for card number field"
+    },
+    "Enter your 3 or 4 digit security code" : {
+      "comment" : "Accessibility hint for CVV field"
+    },
+    "Error: %@" : {
+      "comment" : "Accessibility label prefix for error messages"
+    },
+    "Expiry date" : {
+      "comment" : "Label for expiry date input field"
+    },
+    "Expiry date is required" : {
+      "comment" : "Validation error when expiry date is empty"
+    },
+    "Incomplete card number" : {
+      "comment" : "Validation error when card number has too few digits"
+    },
+    "Incomplete expiry date" : {
+      "comment" : "Validation error when expiry date has too few digits"
+    },
+    "Invalid card number" : {
+      "comment" : "Validation error when card number fails Luhn check"
+    },
+    "Invalid card: %@" : {
+      "comment" : "Error description for invalid card with reason"
+    },
+    "Invalid CVV" : {
+      "comment" : "Validation error when CVV has wrong number of digits"
+    },
+    "Invalid expiry date" : {
+      "comment" : "Validation error when month is not 01-12"
+    },
+    "Invalid server response" : {
+      "comment" : "Error when the server returns an unexpected response"
+    },
+    "Pay %@" : {
+      "comment" : "Pay button label with formatted amount"
+    },
+    "Payment" : {
+      "comment" : "Navigation title for the card input screen"
+    },
+    "Payment failed: %@" : {
+      "comment" : "Error description for failed payment with reason"
+    },
+    "Please check your card details" : {
+      "comment" : "Generic validation error message"
+    },
+    "Please try again later." : {
+      "comment" : "Recovery suggestion for invalid server response"
+    },
+    "Please try again or contact support." : {
+      "comment" : "Recovery suggestion for missing 3DS redirect"
+    },
+    "Please try again or use a different card." : {
+      "comment" : "Recovery suggestion for failed payment"
+    },
+    "Tokenization failed: %@" : {
+      "comment" : "Error description for failed tokenization with reason"
+    },
+    "Verify your card number and expiry date, then try again." : {
+      "comment" : "Recovery suggestion for tokenization failure"
+    }
+  },
+  "version" : "1.0"
+}

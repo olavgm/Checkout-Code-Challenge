@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "AXP_BlueBoxLogo_Alternate_SMALLscale_RGB_DIGITAL_80x80.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

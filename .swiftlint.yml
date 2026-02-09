@@ -1,0 +1,36 @@
+included:
+  - "Checkout Code Challenge/Checkout Code Challenge"
+
+excluded:
+  - "Checkout Code Challenge/Checkout Code Challenge/Resources"
+
+disabled_rules:
+  - trailing_comma
+  - opening_brace
+
+opt_in_rules:
+  - empty_count
+  - closure_spacing
+
+line_length:
+  warning: 140
+  error: 200
+
+type_body_length:
+  warning: 300
+  error: 500
+
+file_length:
+  warning: 400
+  error: 600
+
+function_body_length:
+  warning: 50
+  error: 80
+
+identifier_name:
+  min_length:
+    warning: 2
+  excluded:
+    - id
+    - i

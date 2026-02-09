@@ -1,0 +1,3 @@
+CHECKOUT_PUBLIC_KEY = pk_sbox_gnrjo6pl5azfmgdnrfrbbejo7ev
+CHECKOUT_SECRET_KEY = sk_sbox_bvzfhwhivsgi33smfjjeb6t64i4
+CHECKOUT_BASE_URL = https:$()/$()/api.sandbox.checkout.com

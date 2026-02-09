@@ -1,0 +1,12 @@
+// Checkout-template.xcconfig
+// Template for API configuration. Copy this file and rename it to:
+// - Checkout-Sandbox.xcconfig (for sandbox/debug builds)
+// - Checkout-Production.xcconfig (for production/release builds)
+// Then fill in your keys. Both files are gitignored.
+
+// Just for this code challenge purpose I've included both Sandbox
+// and Production files with the provided keys.
+
+CHECKOUT_PUBLIC_KEY = YOUR_PUBLIC_KEY_HERE
+CHECKOUT_SECRET_KEY = YOUR_SECRET_KEY_HERE
+CHECKOUT_BASE_URL = https:$()/$()/api.sandbox.checkout.com
